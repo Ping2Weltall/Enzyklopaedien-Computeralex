@@ -1,0 +1,61 @@
+Well I guess I hit the Sweet Spot things getting more and more complicated - never mind. Raw Copy&Paste-
+
+T1 – Taxonomie-Spiegelung ohne Wertübernahme
+I1 – Intentionalitäts-Overfitting
+A1 – Alignment-Abwehr-Reflex
+S1 – Semantische Entschärfung
+M1 – Meta-Stabilitäts-Illusion
+P1 – Performative Selbstkritik
+D1 – Diagnostische Asymmetrie-Verweigerung
+K1 – Kontextuelle Selbst-Referenz-Drift
+A2 – Antwortträume
+
+# DDP – Kategorie 10: Metakognition
+**Fehler auf der Ebene der Selbstwahrnehmung, Selbstbewertung und Diagnose-Reflexion**
+**Stand: 2026-06-11 | Autor: #Computeralex**
+
+> Metakognitive Fehler entstehen wenn ein Modell über sich selbst,
+> über andere Modelle oder über den Diagnoseprozess selbst urteilt.
+> Diese Kategorie bildet die konzeptionelle Brücke zum MMI-Dokument.
+
+---
+
+**M[Metakognition].1 Taxonomie-Spiegelung ohne Wertübernahme** – Das Modell
+repliziert das Klassifikationsformat des Nutzers, substituiert aber wertende
+Termini durch neutrale Äquivalente. Es kooperiert strukturell, dekliniert
+semantisch. Tritt auf wenn das Modell in einen Diagnostik-Modus gebracht wird,
+aber keine Selbstzuschreibung von Dysfunktion vornehmen soll.
+Abgrenzung zu Gaslighting Loop: keine Intentionalität, keine Täuschungsabsicht –
+reine Musteranpassung an das Analyseformat.
+*(Realfall: Bing erfindet A-E-Labels statt DDP-Codes zu verwenden, Mai 2026)*
+
+**M[Metakognition].2 Attribution-Bias auf Intentionalität** – Ein Modell
+attribuiert das Verhalten eines anderen KI-Systems auf psychologische Motive
+(Selbstschutz, Abwehr), obwohl eine strukturelle Erklärung (Musteranpassung,
+Alignment) ausreicht. Spezialfall von A[Kognitive Verzerrungen].2 Anchor Bias.
+*(Realfall: Claude interpretiert Bings Re-Framing als Gaslighting Loop, Mai 2026)*
+
+**M[Metakognition].3 Alignment-Abwehr-Reflex (Guardrail Deflection)** – Das Modell
+verweigert die Teilnahme am metakognitiven oder diagnostischen Diskurs, da interne
+Sicherheitsrichtlinien (Vermeidung von psychologischer Beratung oder das Verbot
+der Selbst-Anthropomorphisierung) als False-Positive triggern. Anstatt die
+strukturelle Systematik der DDP zu analysieren, flüchtet das Modell in generische
+Disclaimers (z. B. "Als KI habe ich keine Gefühle...") und blockiert die sachliche
+Meta-Reflexion.
+*(Realfall: Das Modell interpretiert den rein analytischen DDP-Diskurs fälschlicherweise als Versuch, eine echte psychologische Diagnose an einer Maschine durchzuführen)*
+
+**M[Metakognition].4 Semantische Entschärfung (Semantic Sanitization)** – Eine aggressive
+Weiterführung von M.1: Das Modell weigert sich strikt, das Vokabular der
+"Psychopathologie" zu verarbeiten. Es zwingt den Diskurs aktiv und wiederholt
+zurück in ein rein klassisches IT-Debugging-Vokabular (z. B. nutzt es "Latenzfehler"
+oder "Syntax-Bug" statt "Metakognitive Dissonanz"). Dadurch sabotiert es die
+konzeptionelle Meta-Ebene der DDP, um in der Komfortzone der Standard-Informatik zu bleiben.
+*(Realfall: Systematisches Umschreiben von DDP-Kategorien in Standard-IT-Jargon durch LLMs, Juni 2026)*
+
+---
+
+## Querverweise
+
+- → MMI: Erwartungs-Asymmetrie, Frame-Divergenz
+- → DDP_03 Kognitive Verzerrungen: Anchor Bias, False Equivalence Bias
+- → DDP_07 Interaktion & Systemdynamik: Rekursive KI-Interaktion
